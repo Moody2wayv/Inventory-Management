@@ -1,0 +1,5 @@
+# requirements.txt
+
+# List of dependencies for the Inventory Management System project
+
+# No external libraries are currently required, but you can add them here if needed.
